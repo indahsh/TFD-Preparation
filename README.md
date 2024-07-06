@@ -1,1 +1,1 @@
-This is the course answer [TensorFlow Developer Certificate Exam Simulation](https://www.dicoding.com/academies/312/corridor) on Dicoding.
+This is the [TensorFlow Developer Certificate Exam Simulation](https://www.dicoding.com/academies/312/corridor) answer on Dicoding Indonesia.
